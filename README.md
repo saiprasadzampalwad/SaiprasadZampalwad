@@ -13,7 +13,7 @@
 - 💡 Currently learning **React, Node.js**, and **advanced backend systems**.  
 - 🚀 I enjoy working on **real-world projects**, open-source contributions, and improving my **problem-solving** skills.  
 - 🎯 My goal is to become a **Full-Stack Developer** and contribute to impactful software solutions.  
-- 📍 Based in **Aurangabad, India**.  
+- 📍 Based in **Chhatrapati Sambhajinagar, Maharashtra, India**.  
 
 ---
 
@@ -26,10 +26,10 @@
 `HTML` • `CSS` • `React.js` • `Node.js`  
 
 **Databases:**  
-`MySQL` • `MongoDB`  
+`MySQL` • `MongoDB`
 
 **Tools & Platforms:**  
-`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman`  
+`Git` • `GitHub` • `VS Code` • `Pycharm` • `NetBeans`  
 
 ---
 
