@@ -13,7 +13,7 @@
 - 💡 Currently learning **React, Node.js**, and **advanced backend systems**.  
 - 🚀 I enjoy working on **real-world projects**, open-source contributions, and improving my **problem-solving** skills.  
 - 🎯 My goal is to become a **Full-Stack Developer** and contribute to impactful software solutions.  
-- 📍 Based in **Chhatrapati Sambhajinagar, Maharashtra, India**.  
+- 📍 Based in **Aurangabad, India**.  
 
 ---
 
@@ -26,23 +26,23 @@
 `HTML` • `CSS` • `React.js` • `Node.js`  
 
 **Databases:**  
-`MySQL` • `MongoDB`
+`MySQL` • `MongoDB`  
 
 **Tools & Platforms:**  
-`Git` • `GitHub` • `VS Code` • `Pycharm` • `NetBeans`  
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman`  
 
 ---
 
 ### 🏗️ Featured Projects
 
-#### 📘 [Student Management System](https://github.com/krish0007-ctrl/Student-Management-System)
+#### 📘 [Student Management System](https://github.com/saiprasadzampalwad/Student-Management-System)
 > A Java-based system to manage student records efficiently.  
 > 🧩 **Tech Stack:** Java, JDBC, MySQL  
 > 🔹 Add / Update / Delete records  
 > 🔹 Search and filter by name or course  
 > 🔹 Simple and user-friendly interface  
 
-#### 🌱 [Carbon Footprint Calculator](https://github.com/krish0007-ctrl/carbonfootprint)
+#### 🌱 [Carbon Footprint Calculator](https://github.com/saiprasadzampalwad/carbonfootprint)
 > Python-based app that calculates and tracks carbon emissions.  
 > 🌍 **Tech Stack:** Python, Flask, Matplotlib  
 > 🔹 Calculates CO₂ emissions from daily activities  
@@ -61,11 +61,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish0007-ctrl&show_icons=true&theme=tokyonight" alt="Saiprasad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saiprasadzampalwad&show_icons=true&theme=tokyonight" alt="Saiprasad's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish0007-ctrl&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasadzampalwad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -73,11 +73,11 @@
 ### 🏆 Achievements & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish0007-ctrl&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saiprasadzampalwad&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish0007-ctrl&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiprasadzampalwad&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -96,4 +96,5 @@
 ---
 
 ⭐ **“Code, Learn, Share — Repeat.”**  
-👨‍💻 *Developed by [Saiprasad Zampalwad](https://github.com/krish0007-ctrl)*  
+👨‍💻 *Developed by [Saiprasad Zampalwad](https://github.com/saiprasadzampalwad)*  
+
