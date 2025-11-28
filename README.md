@@ -26,18 +26,17 @@
 `HTML` • `CSS` • `React.js` • `Node.js`  
 
 **Databases:**  
-`MySQL` • `MongoDB`  
+`MySQL` • `Derby`•  
 
 **Tools & Platforms:**  
-`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman`  
-
+`Git` • `GitHub` • `VS Code` • `Netbeans` • `Pycharm`•  
 ---
 
 ### 🏗️ Featured Projects
 
 #### 📘 [Student Management System](https://github.com/saiprasadzampalwad/Student-Management-System)
 > A Java-based system to manage student records efficiently.  
-> 🧩 **Tech Stack:** Java, JDBC, MySQL  
+> 🧩 **Tech Stack:** Java, JDBC, Derby  
 > 🔹 Add / Update / Delete records  
 > 🔹 Search and filter by name or course  
 > 🔹 Simple and user-friendly interface  
