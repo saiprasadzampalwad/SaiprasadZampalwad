@@ -9,11 +9,9 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I'm passionate about **building scalable applications** and exploring **modern web technologies**.  
-- 💡 Currently learning **React, Node.js**, and **advanced backend systems**.  
-- 🚀 I enjoy working on **real-world projects**, open-source contributions, and improving my **problem-solving** skills.  
-- 🎯 My goal is to become a **Full-Stack Developer** and contribute to impactful software solutions.  
-- 📍 Based in **Aurangabad, India**.  
+Dedicated Software Developer and Computer Science Engineering student at MGM University, skilled in building efficient, user-centric applications using Java, Python, C++, and modern web technologies. Experience with data visualization using Power BI and growing interest in cybersecurity.Actively pursuing internship or entry-level positions in software development to contribute technical skills and gain hands-on experience within dynamic, collaborative teams
+  
+- 📍 Based in **Chhatrapati Sambhajinagar, Maharashtra, India**.  
 
 ---
 
