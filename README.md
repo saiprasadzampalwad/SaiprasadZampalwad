@@ -45,14 +45,6 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
 > 🔹 Calculates CO₂ emissions from daily activities  
 > 🔹 Provides visual analytics  
 > 🔹 Promotes eco-friendly awareness  
-
-#### 💼 [Portfolio Website](#)
-> A personal portfolio showcasing my projects, skills, and resume.  
-> 🎨 **Tech Stack:** HTML, CSS, JavaScript, React  
-> 🔹 Responsive design  
-> 🔹 Smooth animations  
-> 🔹 Easy to navigate  
-
 ---
 
 ### 📊 GitHub Stats
